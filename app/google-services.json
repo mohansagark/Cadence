@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174303390803",
+    "project_id": "cadence-2026",
+    "storage_bucket": "cadence-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174303390803:android:73feb9e9c00c00d9c1aaa6",
+        "android_client_info": {
+          "package_name": "com.aistudio.dayflow.kxqz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRGr1zZAuGt-PFJmxoS90R1W6IXG9ewE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
